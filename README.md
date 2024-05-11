@@ -1,5 +1,3 @@
-# Business-Growth-Partnerships
-The team that handles Business Growth and Partnerships for All Swanky
 # Business Growth and Partnerships Team - All Swanky
 
 Welcome to the Business Growth and Partnerships Team's GitHub Repository for All Swanky. This repository is dedicated to managing and driving business growth initiatives, fostering partnerships, and exploring new opportunities for All Swanky.
